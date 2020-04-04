@@ -1,2 +1,3 @@
 # vue2-learning
-vue2 learing code
+
+vue2 learning code
